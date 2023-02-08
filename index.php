@@ -28,6 +28,3 @@ echo PHP_EOL;
 
 
 
-
-
-

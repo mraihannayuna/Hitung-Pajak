@@ -3,7 +3,7 @@
         'name' => 'nayuna/pajakpph21',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '518179e88c794c09cff9b3200b33004517668d4c',
+        'reference' => '848257f03531aabde8d57d2ade8c77571e660355',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'nayuna/pajakpph21' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '518179e88c794c09cff9b3200b33004517668d4c',
+            'reference' => '848257f03531aabde8d57d2ade8c77571e660355',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),

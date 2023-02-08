@@ -1,0 +1,28 @@
+{
+  "type": "library",
+  "license": "proprietary",
+  "name": "pph21/calculate",
+  "authors": [
+    {
+      "name": "M Raihan Nayuna",
+      "email": "mraihannayuna13@gmail.com",
+      "homepage": "https://github.com/mraihannayuna"
+    }
+  ],
+  "require": {
+    "php": "^8.2"
+  },
+  "config": {
+    "preferred-install": {
+      "*": "dist"
+    },
+    "sort-packages": true,
+    "classmap-authoritative": true,
+    "optimize-autoloader": true
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\Calculate\\": "App/Calculate"
+    }
+  }
+}
